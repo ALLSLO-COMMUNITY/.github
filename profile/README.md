@@ -1,6 +1,6 @@
 # 🔍 AllSLO — Русскоязычное сообщество про SLI/SLO 📊, вопросы и решения 
 
-Мы обсуждаем:  
+Мы обсуждаем:  ![SLO Focus](https://img.shields.io/badge/theme-SLI%2FSLO-red)
 - **Метрики надежности** (SLI, SLO, Error Budgets)  
 - **Инструменты:** Sloth.dev, Sloth-Next, VictoriaMetrics, Prometheus, Grafana, OpenTelemetry  
 - **Кейсы** из реальных проектов
@@ -9,10 +9,11 @@
 - **Сопровождение SLI/SLO, жизненный цикл**
   
 ## 📌 Как присоединиться?  
-- **➡️ Чат в Telegram:** [t.me/allslo_ru](https://t.me/allslo_ru)  
+- **➡️ Чат в Telegram:** [t.me/allslo_ru ![Telegram Chat](https://img.shields.io/badge/chat-Telegram-blue?logo=telegram)](https://t.me/allslo_ru)  
 - **❤️ Контрибьютить:**
-   * добавлять ссылки на полезные материалы, инструменты и доклады в [awesome-slo](https://github.com/ALLSLO-COMMUNITY/awesome-slo)
-   * присоединяйтесь плисть вместе нашу версию генератора SLO [Sloth-Next](https://github.com/ALLSLO-COMMUNITY/sloth-next) 
+   * добавлять ссылки на полезные материалы, инструменты и доклады в ⭐[awesome-slo](https://github.com/ALLSLO-COMMUNITY/awesome-slo)
+   * присоединяйтесь плисть вместе нашу версию генератора SLO [Sloth-Next](https://github.com/ALLSLO-COMMUNITY/sloth-next)
+- ❓Участвуйте в наших [Дискуссиях тут](https://github.com/orgs/ALLSLO-COMMUNITY/discussions) 
 
 ## 📚 Полезное  
 - Полезные материалы, инструменты и доклады по теме SLI/SLO в [awesome-slo](https://github.com/ALLSLO-COMMUNITY/awesome-slo)
